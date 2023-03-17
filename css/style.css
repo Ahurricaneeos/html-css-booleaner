@@ -9,4 +9,16 @@
 .subtitle {
     margin: 0px;
     color: grey;
+
+}
+.subtitle1 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: grey;
+    font-size: 10px;
+}
+.subtitle2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 12px;
 }
