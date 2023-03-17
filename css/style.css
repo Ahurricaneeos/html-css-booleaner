@@ -28,3 +28,11 @@
 .span {
     background-color: yellow;
 }
+.th {
+    background-color: rgb(37, 129, 190);
+    color: white;
+    text-align: left;
+}
+.td {
+    background-color: rgb(166, 211, 238);
+}
